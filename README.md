@@ -8,9 +8,7 @@ In this web animation Moon appears to revolve around Earth, which herself rotati
 
 or
 
-Download the repository and just open the 'index.html' file in your browser. You can also browse to the following link, also 
-
-https://script.google.com/macros/s/AKfycbwthZ6Za9fKsusPdV2x9g4BPia7VsJJylOFdr9tADD8l1GkoBz4/exec.
+Download the repository and just open the 'index.html' file in your browser.
 
 # Contributing
 Changes and improvements are more than welcome!
